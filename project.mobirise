@@ -32,7 +32,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#999999"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "6.1.4",
